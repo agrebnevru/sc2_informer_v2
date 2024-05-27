@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.09 21:18:02.078.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitMain.pas</Transaction>
+    <Transaction>2010.10.09 21:18:02.078.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitMain.dfm</Transaction>
+    <Transaction>2010.10.09 21:18:26.444.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__sc2tv_informer_v2\sc2tv_informer.dproj</Transaction>
+    <Transaction>2010.10.09 21:34:12.816.pas,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitDinamic.pas</Transaction>
+    <Transaction>2010.10.09 21:34:12.816.dfm,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitDinamic.dfm</Transaction>
+    <Transaction>2010.10.10 14:41:19.478.pas,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitAbout.pas</Transaction>
+    <Transaction>2010.10.10 14:41:19.478.dfm,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer_v2\UnitAbout.dfm</Transaction>
+    <Transaction>2010.10.12 16:00:38.447.pas,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer_v2\ThreadCheckNewVersion.pas</Transaction>
+    <Transaction>2010.10.14 23:47:53.068.pas,D:\Programming\delfi_2010\__sc2tv_informer_v2\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer_v2\ThreadTransparentWindowShowHide.pas</Transaction>
+  </Transactions>
+</BorlandProject>
